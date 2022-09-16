@@ -48,4 +48,16 @@
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <None Remove="Resources\Images\house1.jpeg" />
+	  <None Remove="Resources\Images\house2.jpeg" />
+	  <None Remove="Resources\Images\house3.jpeg" />
+	  <None Remove="Resources\Images\house4.jpeg" />
+	  <None Remove="Resources\Raw\tsconfig1.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Services\" />
+	</ItemGroup>
+
 </Project>
