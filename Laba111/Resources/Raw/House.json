@@ -3,25 +3,29 @@
     "Id": 1,
     "Name": "The Blairs Apartments",
     "Adress": "1401 Blair Mill Rd, Silver Spring, MD 20910, USA",
-    "Price": "$1479"
+    "Price": "$1479",
+    "Image": "house1.jpeg"
   },
   {
     "Id": 2,
     "Name": "The Hanover Apartments",
     "Adress": "7232 Hanover Parkway, Greenbelt, MD 20770, USA",
-    "Price": "$2075"
+    "Price": "$2075",
+    "Image": "house2.jpeg"
   },
   {
     "Id": 3,
     "Name": "The Hanover Apartments",
     "Adress": "Franklin Park At Greenbelt Station Apartments",
-    "Price": "$2425"
+    "Price": "$2425",
+    "Image": "house3.jpeg"
   },
   {
     "Id": 4,
     "Name": "2910 Ritchie Marlboro Rd #B",
     "Adress": "Upper Marlboro, MD, 20774",
-    "Price": "$2,300"
+    "Price": "$2,300",
+    "Image": "house4.jpeg"
   }
 
 ]
